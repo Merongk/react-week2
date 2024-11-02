@@ -1,0 +1,96 @@
+/* General Footer Styles */
+.footer {
+    background-color: #1e1e2f;
+    color: #f0f0f5;
+    padding: 3rem 0;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  /* Footer content text */
+  .footerContent {
+    text-align: center;
+    margin-bottom: 1.5rem;
+    font-size: 1.1rem;
+   
+
+  }
+  
+  /* Footer p and a tags styling */
+  .footer p, .footer a, .footer li {
+    color: #f0f0f5;
+    font-size: 1rem;
+    font-weight: 300;
+  }
+  
+ 
+/* Minor CSS update */
+
+
+  /* Section for the Pages */
+  .pages {
+    text-align: center;
+    margin-bottom: 1.5rem;
+  }
+  
+  .pages h3 {
+    font-size: 1.3rem;
+    margin-bottom: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+  }
+  
+  .pages ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .pages ul li {
+    margin-bottom: 0.5rem;
+  }
+  
+  .pages ul li a {
+    display: inline-block;
+    text-decoration: none;
+    color: #f0f0f5;
+    font-weight: 400;
+    padding-block: 0.5rem;
+    transition: color 0.3s ease;
+  }
+  
+  .pages ul li a:hover {
+    color: #ffcc00;
+  }
+  
+  /* Section for social media links */
+  .footerLinks {
+    text-align: center;
+  }
+  
+  .footerLinks h3 {
+    font-size: 1.3rem;
+    margin-bottom: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+  }
+  
+  .footerLinks ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .footerLinks ul li {
+    display: inline-block;
+    margin: 0 1rem;
+  }
+  
+  .footerLinks ul li a {
+    text-decoration: none;
+    color: #f0f0f5;
+    font-weight: bold;
+    transition: color 0.3s ease;
+  }
+  
+  .footerLinks ul li a:hover {
+    color: #ffcc00;
+  }
+  
